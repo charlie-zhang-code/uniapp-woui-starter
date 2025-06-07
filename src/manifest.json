@@ -1,7 +1,7 @@
 {
-  "name": "uniapp-woui-start",
-  "appid": "__UNI__B7265A9",
-  "description": "uniapp-woui-start 个人用快速启动模板",
+  "name": "uniapp-woui-starter",
+  "appid": "",
+  "description": "一个基于 Uniapp + WotUI 的快速启动项目模板",
   "versionName": "1.0.0",
   "versionCode": "100",
   "transformPx": false,
@@ -42,7 +42,7 @@
   },
   "quickapp": {},
   "mp-weixin": {
-    "appid": "wx9a8833504749a11a",
+    "appid": "",
     "setting": {
       "urlCheck": false,
       "minifyWXML": true,

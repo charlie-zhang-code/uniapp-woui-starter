@@ -2,7 +2,7 @@ import { defineManifestConfig } from '@uni-helper/vite-plugin-uni-manifest'
 
 export default defineManifestConfig({
   'name': 'uniapp-woui-start',
-  'appid': '__UNI__B7265A9',
+  'appid': '',
   'description': 'uniapp-woui-start 个人用快速启动模板',
   'versionName': '1.0.0',
   'versionCode': '100',
@@ -52,7 +52,7 @@ export default defineManifestConfig({
   'quickapp': {},
   /* 小程序特有相关 */
   'mp-weixin': {
-    appid: 'wx9a8833504749a11a',
+    appid: '',
     setting: {
       urlCheck: false,
       minifyWXML: true,
