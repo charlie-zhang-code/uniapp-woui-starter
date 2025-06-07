@@ -1,0 +1,52 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "type": "home",
+      "layout": "default",
+      "name": "index",
+      "style": {
+        "navigationBarTitleText": "首页"
+      }
+    },
+    {
+      "path": "pages/account/index",
+      "type": "page",
+      "layout": "default",
+      "name": "account",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/example/index",
+      "type": "page",
+      "layout": "base",
+      "name": "example",
+      "style": {
+        "navigationBarTitleText": "例子"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTitleText": "uniapp-woui-start",
+    "navigationBarTextStyle": "white",
+    "navigationStyle": "custom"
+  },
+  "tabBar": {
+    "custom": true,
+    "height": "0",
+    "color": "#bfbfbf",
+    "selectedColor": "#0165FF",
+    "list": [
+      {
+        "pagePath": "pages/index/index"
+      },
+      {
+        "pagePath": "pages/account/index"
+      }
+    ]
+  },
+  "__esModule": true,
+  "subPackages": []
+}
