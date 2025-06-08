@@ -1,6 +1,6 @@
-<h2 align="center">
-uniapp-woui-start
-</h2>
+## uniapp-woui-starter
+
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](./LICENSE)
 
 uniapp 个人用快速启动模板，修改自 [wot-demo](https://github.com/Moonofweisheng/wot-demo)
 
